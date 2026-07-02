@@ -82,6 +82,3 @@ This project can be deployed directly to FastMCP Cloud.
 - File Management
 - AI-powered Tools
 
-## License
-
-MIT
