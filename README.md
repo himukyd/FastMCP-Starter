@@ -64,9 +64,8 @@ fastmcp inspector
 
 ## Prompts
 
-- Code Reviewer
-- Email Writer
-- Bug Fixer
+- Welcome Prompt
+- Motivation Prompt
 
 ## Deployment
 
